@@ -1,3 +1,3 @@
-# null-loader
+# name-loader
 
-A loader that returns an empty module.
+A loader that returns the module name.
